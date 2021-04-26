@@ -1,17 +1,17 @@
 # Game Engines 2 Lab Test 2021
 
-- This is an open book test. You can use any of the code from the git repository for the course.
+- This is an open book test
 - No collaboration permitted
 - Fork this git repository
 - Clone your fork
 - Submit the url to your fork before 5pm today through this link
-- To get full marks, you should use steering behaviours and a finite state machine in your solution. Equally good solutions are also acceptable, but your solution should implement good Unity coding standards and draw appropriate gizmos
+- To get full marks, you should use Steering Behaviours and a Finite State Machine with at least 3 states in your solution. I have included some code in the repo that you might find useful. Equally good solutions are also acceptable
 
-For today's test, you will be programming this simulation of a Dog fetching a ball thrown by the player. The Dog is the blue thing in the video, while bones are represented by red spheres.
+For today's test, you will be programming this simulation of a dog fetching a ball thrown by the player. The dog is the blue thing in the video, while balls are represented by red cubes.
 
 [![Video](http://img.youtube.com/vi/uDrDQ7w-hzw/0.jpg)](http://www.youtube.com/watch?v=uDrDQ7w-hzw)
 
-The Dog starts by arriving at a position 10 units in front of the player. After the Dog arrives, it will look at the player as the player moves around the scene. The player can throw a ball by pressing the space key. When the player throws the ball, the dog barks, then goes to fetch the ball. The dog will then pick up the ball and carry it to a point 10 units in front of the player. The dog then drops the ball and waits for the player to throw another ball. The dogs tail wags faster the faster the dog is moving.
+The dog starts by arriving at a position 10 units in front of the player. After the dog arrives, it will look at the player as the player moves around the scene. The player throws a ball by pressing the space key. When the player throws a ball, the dog will bark and then go to fetch the ball. The dog will then pick up the ball and carry it to a point 10 units in front of the player. The dog then drops the ball and waits for the player to throw another ball. The dog's tail wags faster, the faster the dog is moving.
 
 Marking Scheme
 
