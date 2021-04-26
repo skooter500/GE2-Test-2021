@@ -3,8 +3,8 @@
 - This is an open book test
 - No collaboration permitted
 - Fork this git repository
-- Clone your fork
-- Submit the url to your fork before 5pm today through this link
+- Clone your fork (not this repo)
+- Submit the url to your repo before 5pm today through [this link](https://docs.google.com/forms/d/e/1FAIpQLSfBxtMyunljtU-JyiUt80HjvzqQXuFgJWXIBX5x3lCJcp7Wbg/viewform)
 - To get full marks, you should use Steering Behaviours and a Finite State Machine with at least 3 states in your solution. I have included some code in the repo that you might find useful. Equally good solutions are also acceptable
 
 For today's test, you will be programming this simulation of a dog fetching a ball thrown by the player. The dog is the blue thing in the video, while balls are represented by red cubes.
@@ -26,3 +26,5 @@ Marking Scheme
 | Tail wagging | 10 marks |
 | Correct use of git (creating at least 5 commits and one feature branch) | 10 marks |
 | Jazz (any other cool thing you want to implement to enhance the simulation) | 20 marks |
+
+Submit the url to your repo before 5pm today through [this link](https://docs.google.com/forms/d/e/1FAIpQLSfBxtMyunljtU-JyiUt80HjvzqQXuFgJWXIBX5x3lCJcp7Wbg/viewform) 
